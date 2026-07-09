@@ -1,5 +1,6 @@
-public class demo {
-    public satic void main String[]args{
-        system.out.println("hello this is java class");
-    }
+public class demo
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
 }
